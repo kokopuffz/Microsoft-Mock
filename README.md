@@ -6,7 +6,7 @@ The intention of this deliverable is to gain practice with CSS and HTML, and you
 
 ## Getting started
 
->You can either *FORK and CLONE* this repository or you can create your own and push it up to github.
+> *FORK and CLONE* this repository 
 
 This is the Microsoft US page:
 ![Microsoft Home Page](./MicrosoftMockImg.png)
