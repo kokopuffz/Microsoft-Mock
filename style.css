@@ -1,0 +1,27 @@
+.mynav-back {
+  background-color: white;
+  
+}
+.carousel-item {
+  height: 75vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.attach-to-end {
+  justify-content: flex-end;
+}
+
+.carousel-quicklinks {
+  height: 20vh;
+  min-height: 100px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
